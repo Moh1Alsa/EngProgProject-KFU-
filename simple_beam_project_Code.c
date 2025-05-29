@@ -10,7 +10,7 @@ int main() {
     // this is the program header mentioning the purpose and who made it
     printf("===================================================================================================\n");
     printf("\n                                     Simple Beam Analysis Program                \n");
-    printf("\n                   By: Mohammed Zakaria Alsaeed, Abdulhrman Alhemil, Mubarak Alali\n");
+    printf("\n                   By: Mohammed Alsaeed, Abdulhrman Alhemil, Mubarak Alali\n");
     printf("===================================================================================================\n");
 
     // this step to get the beam values from the user and see if they are valid
@@ -59,7 +59,7 @@ int main() {
     }
     printf("===================================================================================================\n");
     printf("\n                           Thank you for using the Beam Analysis Program\n");
-    printf("\n  This Simple Program was made By : Mohammed Zakaria Alsaeed, Abdulhrman Alhemil, Mubarak Alali\n");
+    printf("\n  This Simple Program was made By : Mohammed Alsaeed, Abdulhrman Alhemil, Mubarak Alali\n");
     printf("\n                             Instructed By : Dr. Abdul Raouf Khan\n");
     printf("\n                    Mechanical Engineering Students at King Faisal University\n");
     printf("===================================================================================================\n");
